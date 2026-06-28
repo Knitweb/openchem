@@ -1,27 +1,17 @@
-# OpenChem
+# OpenChem Has Moved
 
-Static landing page for the OpenHydroChem / ChemExtract AI project.
+This repository is archived.
 
-## Local preview
-
-Open `index.html` directly in a browser, or run:
-
-```sh
-python3 -m http.server 8080
-```
-
-Then visit `http://localhost:8080/`.
-
-## GitHub Pages
-
-This repository is ready for GitHub Pages from the `main` branch root.
-
-Project URL after Pages is enabled:
+The active OpenChem repository is now:
 
 ```text
-https://knitweb.github.io/openchem/
+https://github.com/ChemField/openchem
 ```
 
-## License
+The active GitHub Pages site is:
 
-Apache License 2.0.
+```text
+https://chemfield.github.io/openchem/
+```
+
+ChemField is the organization for chemistry enthusiasts to install, develop, and share chemistry knitworks.
